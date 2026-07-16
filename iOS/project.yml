@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: AppspendTests
-      - path: Appspend.storekit
     dependencies:
       - target: Appspend
     settings:
